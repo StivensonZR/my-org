@@ -1,0 +1,57 @@
+
+.form {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 80px 50px;
+    flex-wrap: wrap;
+    gap: 20px;
+} form {
+    padding: 30px 90px;
+    background: #F7F7F7;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+    text-align: start;
+    flex: 1;
+}
+
+.form h2 {
+    text-align: start;
+    font-size: 24px;
+    font-weight: 400;
+    color: #212121;
+}
+
+.campo {
+    text-align: start;
+    margin: 24px 0;
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+} select {
+    width: 100%;
+    height: 60px;
+    background: #FFFFFF;
+    padding: 10px 20px;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    border: none;
+    outline-color: #6278F7;
+    font-size: 16px;
+    margin-top: 8px;
+    text-align: start;
+} option {
+    text-align: start;
+}
+
+
+
+.form button {
+    background: #6278F7;
+    border-radius: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    align-items: start;
+    border: none;
+    color: #FFFFFF;
+    cursor: pointer;
+} 
