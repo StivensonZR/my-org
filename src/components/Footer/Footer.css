@@ -1,8 +1,9 @@
 
-.footer{
+footer{
     width: 100%;
     display: flex;
     padding: 5%;
+    justify-content: space-between;
     align-items: center;
     box-sizing: border-box;
     background-size: cover;
@@ -16,3 +17,4 @@
 .redes img{
     padding: 0px 15px;
 }
+

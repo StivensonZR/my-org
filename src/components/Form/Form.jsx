@@ -62,7 +62,7 @@ export const Form = (props) => {
                 />
                 <Input
                     name="Foto"
-                    placeholder="Ingresar enlace foto"
+                    placeholder="Ingresar enlace de la foto"
                     valor={foto}
                     setValor={setFoto}
                     required
